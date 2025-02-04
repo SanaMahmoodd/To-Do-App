@@ -22,4 +22,4 @@ This is a simple Todo List application that allows you to manage tasks efficient
 1. Clone the repository or download the code.
 2. Open the `index.html` file in a web browser.
 3. Start adding tasks, editing them, or marking them as done.
-4. Use the "Delete All" or "Delete Done" buttons to remove tasks.# To-Do-App
+4. Use the "Delete All" or "Delete Done" buttons to remove tasks.
